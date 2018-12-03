@@ -1,0 +1,52 @@
+##### StashManager #####
+Shows all stashes and containing items
+
+Features:
+- Search for items (Highlight tabs with items containing the search and highlight item in stash)
+- Search for specific mods
+- List found items in extra Frame or Window (So you don't have to look through all tabs)
+- Show Currency Exchange Rates
+- Search for specific item type up to required level # to find items in stash while leveling
+- Search for item type with item level at least #. For example Searching Eye Jewel ilvl 83+
+- Rate Item depending on mods compared to required level
+- Check available mods for ilvl on Item base (Green = Avail, yellow = some, red = none)
+
+- Also show all items from other characters (wearing, inventory, socketed jewels and gems)
+
+##### TradeManager #####
+Search for items offered on Premium Tabs with the PoE Public Stash Tab API
+Create Forum Thread for tabs with high price items ->
+  Makes it possible to reduce price by e.g. 5% a day until it sells
+
+Features:
+- Get notifications when a new item on your search list is offered
+
+Price Estimation
+- Get price estimation with Machine Learning 
+(Learn which mods or mod combinations are most important to decide about price)
+- When looking for price either look for similiar with minimum of some same mods or in Tier Range (or -1 to +1 Tier Range)
+
+
+Item Bases Price Checker
+e.g. 
+Astral Plate ilvl84+ 1c
+Astral Plate ilvl85+ 2c
+Astral Plate ilvl86+ 5c
+Shaper Astral Plate ilvl85+ 10c
+Shaper Astral Plate ilvl86+ 50c
+Elder Astral Plate ilvl85+ 5 exa
+Elder Astral Plate ilvl86+ 12 exa
+
+
+
+##### LootFilterBuilder #####
+
+
+
+
+
+##### BuildPlanner #####
+Show all changes for each Unique Jewel on each Jewel slot
+Show all compatible Support Gems for a gem
+Search for specific mods like "Spell, Cold, Channeling"
+Search for all items supporting Channeling or Cold Gems or Cold Dmg for example
